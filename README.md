@@ -1,2 +1,2 @@
 # ParaSTT
-STT model using Nvidia Parakeet.
+STT model using Nvidia Parakeet ASR.
